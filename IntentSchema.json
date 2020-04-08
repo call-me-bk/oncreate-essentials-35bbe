@@ -1,0 +1,194 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "oncreateessentials",
+      "intents": [
+        {
+          "name": "Advantages",
+          "samples": [
+            "how is it going to benefit me",
+            "how is it usefull",
+            "how is oncreate usefull",
+            "what are the advantages",
+            "what are the benefits",
+            "why should i come to oncreate",
+            "why should i join"
+          ]
+        },
+        {
+          "name": "Pritidating",
+          "samples": [
+            "is the girl in the core team dating",
+            "is the girl on stage dating",
+            "is the head girl dating",
+            "is the short girl dating"
+          ]
+        },
+        {
+          "name": "Mrinaldating",
+          "samples": [
+            "is mrinal dating",
+            "is the short guy with specs dating",
+            "is the short guy with spectacles daring anyone?"
+          ]
+        },
+        {
+          "name": "Yesresponse",
+          "samples": [
+            "yes"
+          ]
+        },
+        {
+          "name": "Weeklychallenge",
+          "samples": [
+            "what are we supposed to do this week",
+            "what is the assignment for this week",
+            "what is the weekly challenge"
+          ]
+        },
+        {
+          "name": "Bkdating",
+          "samples": [
+            "is bk dating",
+            "is karthik dating",
+            "is the media manager dating"
+          ]
+        },
+        {
+          "name": "DefaultWelcomeIntent",
+          "samples": [
+            "talk to oncreate essentials"
+          ]
+        },
+        {
+          "name": "Endthis",
+          "samples": [
+            "abort",
+            "alright",
+            "cancel",
+            "exit",
+            "no",
+            "nope",
+            "not",
+            "not really",
+            "nothing",
+            "nothing at all",
+            "thank you",
+            "that\u0027s all",
+            "thats all"
+          ]
+        },
+        {
+          "name": "Howtocore",
+          "samples": [
+            "how do i join the core team",
+            "i want to be a member of the core team",
+            "i want to be in the core team"
+          ]
+        },
+        {
+          "name": "Howtoproject",
+          "samples": [
+            "how do i join project teams",
+            "i want to join project teams"
+          ]
+        },
+        {
+          "name": "Coreteam",
+          "samples": [
+            "core team",
+            "irfan",
+            "karthik",
+            "mrinal",
+            "priti",
+            "who is in the core team"
+          ]
+        },
+        {
+          "name": "Nextsessiontype",
+          "samples": [
+            "what am i going to learn in my next class",
+            "what are we going to do in the next class",
+            "what are you going to do in the next session",
+            "what is it about",
+            "what is my next class about",
+            "what is my next class for"
+          ]
+        },
+        {
+          "name": "Whatis",
+          "samples": [
+            "what do we do in oncreate",
+            "what is on create",
+            "what is oncreate",
+            "what is this",
+            "what is this club",
+            "why oncreate"
+          ]
+        },
+        {
+          "name": "Aboutme",
+          "samples": [
+            "who are you"
+          ]
+        },
+        {
+          "name": "Whomadeyou",
+          "samples": [
+            "who built you",
+            "who made you"
+          ]
+        },
+        {
+          "name": "Moreabout",
+          "samples": [
+            "tell me more about"
+          ]
+        },
+        {
+          "name": "Registration",
+          "samples": [
+            "how do i become a member",
+            "how do i join",
+            "how do i register"
+          ]
+        },
+        {
+          "name": "Irfandating",
+          "samples": [
+            "is irfan dating",
+            "is the tall guy wearing spectacles dating anyone?",
+            "is the tall guy with specs dating"
+          ]
+        },
+        {
+          "name": "Newregistration",
+          "samples": [
+            "are the registrations open",
+            "can i join today",
+            "can i register now"
+          ]
+        },
+        {
+          "name": "Whatcanyoudo",
+          "samples": [
+            "what can you do"
+          ]
+        },
+        {
+          "name": "Nextsession",
+          "samples": [
+            "next class",
+            "when are we meeting next",
+            "when do i have my next session",
+            "when do i have on create next",
+            "when is my next class",
+            "when is my next hands on session",
+            "when is the next session"
+          ]
+        }
+      ],
+      "types": []
+    }
+  }
+}
